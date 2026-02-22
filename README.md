@@ -1,9 +1,15 @@
-# credit-card-fraud-detection
-ML project for detecting fraudulent credit card transactions
+# Credit Card Fraud Detection
 
+## Overview
 
-The full dataset is not included due to size limitations.
+This project compares machine learning models for detecting fraudulent credit card transactions in a highly imbalanced dataset (~0.17% fraud rate).
 
-Download it from:
-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+The focus is on proper evaluation of imbalanced classification problems using metrics beyond accuracy.
 
+---
+
+## Dataset
+
+Source: ULB Credit Card Fraud Dataset (Kaggle)
+
+The full dataset is not included due to GitHub size limits.
